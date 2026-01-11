@@ -1,9 +1,3 @@
-
----
-
-## 📄 4️⃣ `delete.md`
-
-```markdown
 # Delete Book Record
 
 ```python
